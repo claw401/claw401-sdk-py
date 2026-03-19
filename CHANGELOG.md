@@ -94,3 +94,4 @@
 # feat: ship webhook integration for pushing scan results to external systems — Thu Mar 19 21:19:56 +03 2026
 # feat: pass agent context downstream to scanner for full trace correlation — Thu Mar 19 21:19:56 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Thu Mar 19 21:20:21 +03 2026
+# feat: pass agent context downstream to scanner for full trace correlation — Thu Mar 19 21:20:21 +03 2026
