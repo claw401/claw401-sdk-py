@@ -152,3 +152,4 @@
 # feat: pass agent context downstream to scanner for full trace correlation — Thu Apr  2 18:32:58 +03 2026
 # feat: ship webhook integration for pushing scan results to external systems — Sat Apr  4 19:16:12 +03 2026
 # feat: pass agent context downstream to scanner for full trace correlation — Sat Apr  4 19:16:12 +03 2026
+# fix: resolve false positives in fresh wallet heuristic scoring model — Sun Apr  5 12:51:08 +03 2026
