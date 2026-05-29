@@ -486,3 +486,4 @@
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Sat May 23 12:44:04 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sat May 23 12:44:04 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 24 10:09:59 +03 2026
+# feat: add configurable webhook sink for real-time scan result delivery — Fri May 29 14:34:46 +03 2026
